@@ -23,3 +23,34 @@ Welcome to my new Blogs!
 - Golang
 - C/C++
 - Python
+
+### Framework
+#### Common
+- swagger
+
+#### Python
+- fastapi
+- sqlmodel
+  
+#### Golang
+- fiber
+- gorm
+
+#### C++
+- Fiber(golang)
+- fastapi(Python)
+
+### Database
+- Mysql
+- Redis
+  
+### Devops and CI/CD
+- jenkins
+- gitlab
+- argo
+- opentelemetry
+- vector/filebeat
+- grafana/promethus
+  
+### Test
+- locust

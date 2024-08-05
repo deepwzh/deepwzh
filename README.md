@@ -40,6 +40,10 @@ Welcome to my new Blogs!
 - Fiber(golang)
 - fastapi(Python)
 
+### OS/distribution
+- Ubuntu/Debian
+- wsl
+
 ### Database
 - Mysql
 - Redis

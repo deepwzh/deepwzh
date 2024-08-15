@@ -1,6 +1,6 @@
 # Hello, Here is deepwzh
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
+  <a href="https://github.com/deepwzh/deepwzh">
     <img src="https://komarev.com/ghpvc/?username=deepwzh" alt="page views" />
   </a>
   <a href="https://blogs.92ac.cn">
